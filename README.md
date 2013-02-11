@@ -1,7 +1,6 @@
-ctcSerializer
-=============
+# ctcSerializer
 
-XML Serializer written in PHP.
+ctcSerializer is an XML serializer written in PHP.
 
 ## Acknowledgements
 
