@@ -10,5 +10,8 @@ This project was started by [Andrew G. Johnson](https://github.com/andrewgjohnso
 
 ## Changelog
 
+######v1.1.0 (February 16, 2013)
+ * Added composer support
+
 ######v1.0.0 (February 16, 2013)
  * Intial release of ctcSerializer

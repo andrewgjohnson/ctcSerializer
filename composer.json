@@ -1,0 +1,28 @@
+{
+    "name": "andrewgjohnson/ctcSerializer",
+    "type": "library",
+    "description": "ctcSerializer is an XML serializer written in PHP.",
+    "keywords": [
+        "serializer",
+        "xml"
+    ],
+    "homepage": "https://github.com/andrewgjohnson/ctcSerializer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew G Johnson",
+            "email": "andrew@andrewgjohnson.com",
+            "homepage": "http://www.andrewgjohnson.com/",
+            "role": "Project Lead"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "files": [
+            "source/ctcSerializer.php"
+        ]
+    }
+}
