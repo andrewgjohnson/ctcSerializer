@@ -1,5 +1,5 @@
 {
-    "name": "andrewgjohnson/ctcSerializer",
+    "name": "andrewgjohnson/ctc-serializer",
     "type": "library",
     "description": "ctcSerializer is an XML serializer written in PHP.",
     "keywords": [

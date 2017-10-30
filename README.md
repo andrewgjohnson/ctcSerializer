@@ -10,6 +10,9 @@ This project was started by [Andrew G. Johnson](https://github.com/andrewgjohnso
 
 ## Changelog
 
+######v1.1.1 (October 30, 2017)
+ * Changed composer package name to support packagist.org guidelines
+
 ######v1.1.0 (October 30, 2017)
  * Added composer support
 
